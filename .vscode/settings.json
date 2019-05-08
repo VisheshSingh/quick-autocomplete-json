@@ -1,5 +1,5 @@
 {
     "editor.fontLigatures": true,
-    "editor.fontFamily": "Incosolata, Consolas, 'Courier New', monospace",
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira code, Consolas, 'Courier New', monospace"
 }
